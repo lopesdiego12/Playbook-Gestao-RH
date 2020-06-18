@@ -1,0 +1,96 @@
+PDI
+Como construir um Plano de Desenvolvimento - Parte 1
+O PDI, ou plano de desenvolvimento individual [1], é basicamente uma meta de desenvolvimento baseada em um skill, competência, valor ou comportamento que vai ser o foco do seu esforço de desenvolvimento em um período específico de tempo.
+
+Idealmente, um PDI possui poucas áreas de desenvolvimento em um dado momento. É importante ter foco para não perder eficácia nos esforços. De maneira conceitual, essas áreas de desenvolvimento deveriam surgir da interação de duas grandes forças que atuam sobre um indivíduo na empresa: suas necessidades individuais e as necessidades da empresa.
+
+
+As necessidades individuais afloram dos seus interesses (do que ele gosta), suas ambições de carreira (onde ele quer chegar) e seu atual mapa de forças e fraquezas (no que ele é melhor/pior). 
+
+
+Um funcionário hipotético (vamos chamá-lo de Heitor) pode:
+
+Hoje ser responsável por modelos financeiros em planilhas
+Não ter muita paciência para/não dar muita atenção aos detalhes
+Ser reconhecidamente muito bom com pessoas (people person)
+Ter a ambição de se tornar um Diretor Financeiro um dia
+Note que, se o Heitor pensar apenas nas suas necessidades, ele pode muito bem chegar à conclusão de que a atenção aos detalhes não é um foco de desenvolvimento agora: ele quer se tornar Diretor, e para essa posição gerencial, precisa potencializar seu jeito com pessoas em skills mais sólidos de liderança e gestão de pessoas.
+
+Agora vamos às necessidades da empresa, que precisam ser levadas em conta. A empresa onde o Heitor trabalha tem:
+
+Alguns bons gestores já prontos para assumirem cargos de liderança e aguardando a ida de um Gerente Sênior para um intercâmbio na Europa, que liberará algumas posições no organograma
+Um valor de sua cultura que defende a importância da atenção dos detalhes em todos os níveis e funções (é uma empresa que produz jatos de passageiros - tipo a Boeing - e onde não há margem de erro)
+Uma potencial mega fusão com um concorrente, que trará grande demanda sobre o time de modelagem para que sejam construídos modelos orçamentários combinados que serão usados no financiamento do negócio (justamente a área de atuação atual do Heitor)
+Esse exemplo pode parecer exagerado, mas é o dia a dia de gestores e empresas do mundo todo, que precisam constantemente entender e negociar prioridades às vezes conflitantes em prol de um objetivo comum.
+
+Portanto, converse com o seu gestor/liderado e tente entender onde está, na construção do seu PDI, a intersecção das necessidades individuais e das necessidades da empresa. É ali que ambos encontrarão maiores resultados.
+
+
+Como construir um Plano de Desenvolvimento - Parte 2
+Para construir seu PDI, é importante levar em conta o equilíbrio entre as necessidades da empresa e as suas necessidades como indivíduo.
+
+Com isso em mente, vamos discutir algumas formas práticas que podem nortear a busca por uma área de desenvolvimento relevante para o seu PDI.
+
+Avaliações de Desempenho
+As avaliações de desempenho são uma fonte rica de possíveis áreas de desenvolvimento. Nessa prática, geralmente somos avaliados em diferentes quesitos, que são competências técnicas ou comportamentais, valores da cultura da empresa e assim por diante. A partir de um mapa dos resultados, como o que pode ser extraído da tela Seus Resultados, do Qulture.App, você pode identificar visualmente os quesitos em que foi avaliado em conceitos mais baixos. No caso abaixo, fica claro que "É constantemente insatisfeito" é o candidato mais claro:
+
+
+ 
+
+Feedbacks e Insights
+Outra forma interessante de identificar possíveis áreas de desenvolvimento é através do Seu Painel dentro da ferramenta de feedbacks e insights do Qulture.App. Nela, você poderá identificar os valores, competências e skills em que mais recebe feedbacks e insights com a tag Pode Melhorar. Veja abaixo:
+
+
+Se você ainda não tem um painel bem populado (pode ter recebido ainda poucos insights de colegas, líderes e liderados) uma boa forma de maximizar o potencial da ferramenta é pedir insights sobre a construção do seu PDI. Veja o exemplo abaixo (efetivamente usado aqui na Qulture.Rocks por membros do time):
+
+
+
+O feedback gerou insights extremamente úteis para a construção do PDI de quem o pediu.
+
+O que acha de pedir mais feedbacks para te ajudar no seu Plano de Desenvolvimento?
+
+
+Como construir um Plano de Desenvolvimento - Parte 3
+Agora que você já identificou uma área de desenvolvimento a partir de evidências empíricas (como resultados de uma avaliação ou feedbacks recebidos), é hora de estruturar um plano de ação que maximize as chances de você atingir seu objetivo.
+
+A Ciência por trás dos resultados
+Quando fomos pesquisar sobre a ciência por trás de como pessoas maximizam as chances de atingirem seus objetivos, chegamos a uma série de papers, como esse e esse, que mostram que planos específicos - com o que, onde, quando e como - delineados com antecedência (vou correr 10km na USP segunda-feira às 6 da manhã) são muito mais eficientes (ou seja, tem maiores chances de serem concluídos) do que planos vagos (vou correr uma vez essa semana).
+
+Como usar isso no seu PDI?
+Inspirados por essas descobertas, criamos um lugar onde você pode registrar quais passos específicos vai tomar para se desenvolver na área escolhida. Veja abaixo um plano de ação hipotético de um dos membros do time da Qulture.Rocks (este que vos escreve):
+
+
+Você pode observar que há um Tipo para cada tarefa. Os tipos de ações de desenvolvimento foram inicialmente baseados no modelo 70/20/10, que diz que nosso desenvolvimento profissional se dá através de três principais grupos de atividades:
+
+Desafio Profissional, ou seja, os desafios que encaramos no trabalho
+Mentoria e Feedback, ou seja, feedback, mentores, coaches e gestores
+Treinamento e Estudo, ou seja, sala de aula, cursos, workshops, palestras etc
+Independentemente da validade dos números da teoria 70/20/10, o framework serve de modelo mental interessante de como - de onde - vamos extrair nosso desenvolvimento.
+
+Um erro frequente que observamos em PDIs é o excesso de atividades ligadas ao treinamento. É muito fácil simplesmente colocar "Fazer um curso de Excel" quando o Heitor quer desenvolver seus skills de modelagem financeira. No entanto, a realidade geralmente é mais complicada, e são raros os casos em que podemos tirar da cartola o orçamento, tempo e aprovações necessárias para participar de cursos e outras atividades do tipo.
+
+Aí entram três formas extremamente criativas e, segundo o modelo muito mais eficientes, de nos desenvolvermos no trabalho: em primeiro lugar, os feedbacks de nossos colegas, líderes e liderados. Em segundo lugar, buscar experiências dentro do nosso ambiente de trabalho que possam nos desenvolver. E em terceiro lugar, buscar pessoas que possam nos ajudar nessa jornada.
+
+ 
+
+Alavancando feedbacks como ferramenta de desenvolvimento
+Uma forma eficiente e simples de construir seu plano de ação é baseando-o em feedbacks que sejam pedidos durante toda a duração do PDI e que possam informar e motivar o processo. No exemplo acima, em que um plano de ação foi construído para desenvolver a capacidade de Delegar mais e com mais qualidade, uma das atividades pode ser um pedido de feedback semanal sobre o tema:
+
+
+Nesse caso, o pedido seria feito muito provavelmente a membros do time - liderados - que poderiam avaliar em primeira mão a evolução do gestor no tema.
+
+Buscando experiências construtivas
+Busque projetos, contribuições e outras atividades que, sem custo nenhum, possam te expor às áreas em que você quer se desenvolver. Para o Heitor, do nosso exemplo anterior, que queria se desenvolver na atenção aos detalhes, uma forma interessante de buscar uma experiência que agregue nessa área seria se voluntariar a realizar a auditoria anual das contas da fundação da empresa em que ele trabalha, um trabalho onde a atenção aos detalhes é essencial. Além disso, a interação real com outros profissionais que precisam da atenção aos detalhes pode ensinar alguns truques e técnicas de como Heitor pode ser melhor nisso. O que nos leva à segunda categoria, pessoas.
+
+ 
+
+Achando um mentor que possa nos "guiar"
+Outra forma de se desenvolver na atenção aos detalhes pode ser buscar, dentro da empresa, um mentor com quem Heitor possa se reunir periodicamente (algo como uma vez por mês) para discutir experiências, técnicas e dicas de como se desenvolver melhor nessa competência. Esse mentor pode ser achado facilmente em uma pesquisa com colegas, com gestores, ou até perguntando à área de RH se há alguém que possua "Orientação para detalhes" como grande destaque positivo no Seu Painel dos feedbacks.
+
+ 
+
+O que achou? Mande-nos feedback sobre nossos artigos!
+
+Caso tenha dúvidas, não deixe de nos chamar pelo chat :)
+
+ 

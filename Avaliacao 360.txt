@@ -1,0 +1,185 @@
+Avaliacao 360
+Avaliação 360-graus: o que é e como ela funciona?
+ 
+A avaliação 360-graus é uma das ferramentas mais usadas – e mal utilizadas – da caixa de ferramentas de gestão de desempenho de uma empresa. Nesse artigo falaremos um pouco sobre o que é a avaliação 360-graus, qual a diferença entre avaliação e feedback 360-graus, quais são os motivos mais frequentes pelos quais as empresas adotam a ferramenta, quais suas limitações e principais riscos além de alguns erros comuns de aplicação. O artigo será todo baseado na literatura de psicologia organizacional e industrial que tem insights muito bons sobre esse tema.
+
+Portanto, se prepare para aprender muito :)
+
+Qual a diferença entre avaliação 360-graus e feedback 360-graus?
+O foco desse artigo é a avaliação 360-graus. E avaliação 360-graus não é necessariamente a mesma coisa que feedback 360-graus.
+
+Quando falamos em avaliação 360-graus, estamos falando em algum tipo de formulário onde o avaliador dá notas, conceitos ou ratings ao avaliado em uma série de critérios que podem ser comportamentos, competências, valores ou até resultados.
+
+Quando falamos em feedback 360-graus, estamos falando de um processo mais qualitativo, onde o foco está na narrativa e no texto e não na classificação algum atributo do outro. O feedback da Netflix, por exemplo, que é livre (ou seja, manda quem quer para quem quer) é baseado em comportamentos que o recipiente do feedback deve começar, parar ou continuar apresentando.
+
+Para ajudar você a clarear as ideias, vamos falar um pouco mais do que é feedback e do que é avaliação.
+
+ 
+
+O que é feedback?
+Quando pisamos no chão, a reação que a força do nosso pé sobre a superfície gera (nesse caso no sentido contrário) nos serve de feedback de que estamos pisando em uma superfície firme, que aguenta nosso peso. Se pisamos em uma superfície mais mole ou instável, usamos a diferença nas nuances dessa reação para recalibrar nossos passos e até o uso dos músculos da nossa perna.
+
+Quando conversamos com alguém também recebemos feedbacks sobre o andamento da conversa. Quem está falando com a gente pode, por exemplo, mostrar traços variados de linguagem corporal que nos mandam informações relevantes sobre se estamos agradando a pessoa, deixando-a interessada, entediada, etc. E frequentemente esse feedback do ambiente – nesse caso do outro – serve de base para que mudemos nosso comportamento de acordo com nossos objetivos. Um comediante, por exemplo, pode usar a ausência de risos e contato com os olhos da platéia para mudar as piadas que usa com o objetivo último de agradar seu público ao máximo.
+
+No trabalho, feedback tem um significado um pouco mais específico. Tratamos de feedback aqueles puxões de orelha que um gestor ou colega dá na gente quando fazemos alguma coisa que desagrada. Também chamamos de feedback aquela conversa cheia de ansiedade e nervosismo que temos com nosso gestor no fim de um processo de avaliação de desempenho, onde recebemos informações sobre nosso desempenho, sobre pontos fortes e a desenvolver, sobre promoções e aumentos de salário e assim por diante.
+
+ 
+O que é avaliação?
+Quando buscamos o significado da palavra “appraisal”, raíz em inglês usada nas expressões “performance appraisal” ou “360-degree appraisal“, veremos que o Google nos diz que “appraisal” é a estimativa da natureza, qualidade ou habilidade de alguém ou alguma coisa. O Google nos dá como sinônimos avaliação, julgamento, estimativa, análise e opinião.
+
+Com base nessa definição, derivada de dicionários da língua americana, podemos inferir que avaliação é mais do que um simples feedback que o ambiente nos manda. É um feedback carregado da tentativa, por parte do nosso avaliador, de quantificar alguma coisa sobre nós.
+
+É fácil entender sobre o que estamos falando: Muitas empresas estruturam suas avaliações com base no paradigma dos comportamentos e dos resultados (ou “o que” e “como”). No lado dos comportamentos, pede-se que colaboradores avaliem uns aos outros, por exemplo, com base na frequência com a qual alguém apresenta um dado comportamento como “trabalhar em equipe”. Assim, ficamos sabendo que nossos colegas acham que “trabalhamos em equipe” “sempre”, ou “consistentemente”.
+
+Essa avaliação que recebemos serve, claro, de feedback com o qual podemos calibrar nossos comportamentos. É isso, claro, que as empresas que usam a avaliação 360-graus (tema do nosso artigo) esperam que aconteça: que eu continue “trabalhando em equipe” (seja lá o que isso quer dizer) dado que meus colegas reconhecem que faço isso com “consistência”. Mas veremos um pouco à frente que esse objetivo nem sempre é atingido quando o assunto é avaliação.
+
+ 
+
+A farra dos graus: quem avalia quem?
+A primeira discussão que o próprio termo “avaliação 360-graus” levanta é a questão do uso da analogia dos graus como forma de descrever quem avaliará um dado avaliado.
+
+As empresas chamam de avaliação 360-graus aqueles processos de avaliação em que o colaborador é avaliado por um conjunto de pessoas, como:
+
+Si mesmo (a chamada auto-avaliação);
+Seus colegas (aqueles que reportam ao mesmo gestor do avaliado);
+Clientes internos;
+Gestor;
+Liderados (ou reportes diretos). 
+Até aí muito fácil. O problema é que muita gente de RH tenta usar a mesma analogia dos graus para descrever outros tipos de avaliação. Aí a coisa fica mais difícil. Alguns se referem à avaliação 90-graus como aquela em que apenas o gestor avalia seu liderado. Outros se referem à avaliação 180-graus como a soma de uma avaliação 90-graus (do gestor) e uma auto-avaliação. Alguns coaches falam até em avaliações 720-graus, em que além de todo mundo do trabalho o avaliado também recebe inputs dos seus familiares.
+
+Na nossa opinião a coisa fica muito confusa, então atenha-se a usar os 360-graus mesmo. Se você quiser usar o termo correto, chame-a de avaliação multi-avaliador (multi-rater, em inglês), que é o termo utilizado pelos psicólogos organizacionais e industriais que inventaram a prática.
+
+ 
+
+Critérios de avaliação
+Como vimos acima, uma avaliação 360-graus é uma avaliação em que um colaborador é avaliado por um conjunto de pares, liderados, líder e clientes internos em uma série de critérios, que podem ser valores, competências, comportamentos, contribuições e resultados.
+
+“A avaliação 360-graus é uma avaliação em que um colaborador é avaliado por um conjunto de pares, liderados, líder e clientes internos em uma série de critérios, que podem ser valores, competências, comportamentos, contribuições e resultados.”
+
+— Definição de Avaliação 360-Graus
+
+Na Ambev, por exemplo, a avaliação 360-graus é baseada em comportamentos que são derivados de competências corporativas. Essas competências, por sua vez, são derivadas dos princípios da empresa (algo como “mandamentos” ou “valores”) de cunho cultural.
+
+Esse é o modelo mais comum de avaliação 360-graus.
+
+ 
+
+Um universo de critérios
+Em algumas empresas, esses critérios podem variar com base na relação entre o avaliador e o avaliado. Em algumas empresas, liderados avaliam seus gestores em critérios relacionados à gestão de pessoas.
+
+Em outras empresas, alguns critérios são específicos por área de atuação do liderado (por exemplo no caso de competências técnicas para desenvolvedores de software ou habilidades ligadas a vendas para vendedores).
+
+Outra possibilidade é que os critérios mudem com base na senioridade do cargo do avaliado. Nesse caso, alguns critérios serão usados para avaliar o CEO da empresa (que possui um trabalho de alta complexidade) que são muito diferentes dos critérios usados para avaliar um analista (que possui um trabalho de baixa complexidade).
+
+Aqui, vale ressaltar que o mais comum é que as competências se mantenham sempre as mesmas, ou seja, tanto o CEO quanto o analista são avaliados na competência “liderança”. No entanto, o CEO será avaliado em comportamentos muito mais complexos do que o analista. Assim, do CEO se espera a “capacidade de inspirar a ação em uma grande quantidade de pessoas” enquanto do analista se espera apenas “comunicar suas opiniões com clareza nas horas certas” dentro do espectro da competência “liderança”.
+
+ 
+
+Por que fazer uma avaliação 360-graus?
+Avaliações, de maneira geral, existem para servir a dois grandes objetivos:
+
+Desenvolver o desempenho dos colaboradores de uma empresa;
+Tomar decisões de gente, como quem deve ser promovido, movimentado, desligado, ou ganhar aumentos e bônus por desempenho.
+ 
+
+Para uma discussão completa sobre o tema, vale a leitura de O Que é Gestão de Desempenho. Para os propósitos deste artigo, vamos focar no porquê de fazer uma avaliação 360-graus em comparação com uma avaliação simples, de gestor para liderado, incluindo ou não uma auto-avaliação.
+
+As avaliações 360-graus (versus avaliações gestor-liderado e similares) são usadas por três grandes motivos nas organizações:
+
+Aumentar a percepção de justiça dos participantes do processo;
+Aumentar a precisão das avaliações;
+Avaliar diferentes perspectivas sobre o comportamento do avaliado.
+ 
+
+Aumentar a percepção de justiça dos participantes do processo é um objetivo nobre: pesquisas (Moorman, 1991; Konovsky & Cropanzano, 1991) mostram que o tratamento justo de colaboradores traz maior confiança nos gestores, maior comprometimento dos colaboradores com a organização e maior satisfação dos colaboradores com o trabalho.
+
+A ciência demonstra que algum tipo de auto-avaliação no processo aumenta significativamente a percepção de justiça dos colaboradores para com processos de avaliação de desempenho. Entende-se que o colaborador sente-se tratado com justiça por ter parte no processo. Por ter “sua voz ouvida”. Além disso, a ciência também comprova que a adição de múltiplos avaliadores melhora a atitude de colaboradores, especialmente gestores recebendo avaliações de seus liderados, em relação ao processo de avaliação (Bernardin, et al., 1993). Portanto, se seu objetivo é aumentar a percepção de justiça do processo, algum componente de avaliação 360-graus pode ser positivo.
+
+ 
+
+Por que não fazer uma avaliação 360-graus
+Aumentar a precisão das avaliações é outro objetivo frequentemente usado por departamentos de RH para justificar o uso de avaliações 360-graus. A tese é que a multiplicidade de avaliadores reduza o impacto que um avaliador enviesado, ou seja, com uma tendência muito forte positiva ou negativa, tenha impacto significativo na avaliação sendo feita.
+
+Mas, se por um lado vimos acima que a inclusão de múltiplos avaliadores, incluindo uma auto-avaliação, pode ser positiva para a percepção de justiça e atitude em relação ao processo, não há evidências científicas que comprovem que o uso de múltiplos-avaliadores, ou seja, o uso da avaliação 360-graus, aumente a precisão das avaliações recebidas por um colaborador.
+
+“A ciência sugere que quando o feedback multi-avaliador é usado para a tomada de decisões e não apenas para fins de desenvolvimento, os aplicadores devem se preparar para resultados que são potencialmente contaminados por erros de avaliação, que podem tornar indistinguíveis desempenhos bons de desempenhos medíocres, e que podem limitar o valor de tais avaliações para fins de desenvolvimento”.”
+
+— Anthony Dalessio
+
+A ciência mostra que o argumento da “precisão” das avaliações 360-graus é bastante frágil. Dependendo do uso da avaliação, a precisão das notas cai abruptamente. É o caso dos processos cujas avaliações são usadas para a tomada de decisões de gente (como quem deve ser promovido, movimentado, desligado, ou ganhar aumentos e bônus por desempenho), que causam uma inflação significativa das notas dadas, ou seja, na média, os avaliadores avaliam de maneira mais positiva ou benevolente se entendem que as avaliações serão usadas para decisões (Murphy e Cleveland, 1995, p. 246).
+
+Segundo Anthony Dalessio, “a ciência sugere que quando o feedback multi-avaliador é usado para a tomada de decisões e não apenas para fins de desenvolvimento, os aplicadores devem se preparar para resultados que são potencialmente contaminados por erros de avaliação, que podem tornar indistinguíveis desempenhos bons de desempenhos medíocres, e que podem limitar o valor de tais avaliações para fins de desenvolvimento“.
+
+ 
+
+Outros riscos da avaliação 360-graus
+Em um artigo fundamental para qualquer profissional de RH que quer entender mais sobre avaliações 360-graus, Angelo DeNisi e Avraham Kluger discutem méritos, deméritos e melhores práticas para a adoção de avaliações 360-graus.
+
+Um dos principais riscos apontados pelo par de pesquisadores é o risco de a avaliação levar o avaliado a questionar a imagem que ele tem de si próprio. Segundo eles, isso pode piorar significativamente a capacidade do avaliado de se desenvolver, ou seja, melhorar sua performance, com base nas avaliações recebidas: “Caso o feedback foque sua atenção na imagem que o avaliado tem de si mesmo, seja porque é pessoal, ou porque está intimamente relacionado à auto-imagem detida pelo avaliado, o desempenho subsequente do avaliado tende a sofrer”.
+
+Por outro lado, vemos aqui na Qulture.Rocks que diversas empresas insistem em apresentar aos seus colaboradores relatórios de avaliações de desempenho (sejam elas 360-graus ou não) que incluem algum tipo de comparação entre as auto-avaliações realizadas pelo avaliado e a avaliação dos outros grupos de avaliadores, como pares, gestor e liderados. Segundo DeNisi e Klugger, tais apresentações comparativas pioram muito a chance de o avaliado melhorar com base no processo.
+
+ 
+
+Melhores práticas para a implementação de avaliações 360-graus
+Já vimos o que são avaliações 360-graus, seus objetivos, funcionamento e principais riscos. Achamos que a melhor forma de terminar esse artigo é com recomendações práticas e baseadas na ciência de como utilizar essa ferramenta com mais eficácia (e menos potenciais perdas para sua cultura e desempenho).
+
+Aqui vamos nos apoiar integralmente nos achados de DeNisi e Klugger, que avaliaram mais de 600 estudos científicos sobre avaliações 360-graus. Vamos às recomendações:
+
+Não use avaliações 360-graus para tomar decisões de gente (quem deve ser promovido, movimentado, desligado, ou ganhar aumentos e bônus por desempenho): como vimos, isso aumenta a ansiedade relacionada ao processo, piora as chances de ganhos de desempenho por parte dos avaliados e piora muito a precisão das avaliações (que são infladas)
+Evite apresentar comparações entre a autoavaliação e as avaliações de outros grupos: isso pode levar o avaliado a questionar a imagem que tem de si mesmo, o que piora significativamente as chances de ganhos de desempenho após o processo
+Incentive os participantes a fornecerem avaliações qualitativas: a parte mais importante do processo é o componente qualitativo do processo, que tira o foco das notas e aumenta as chances de o feedback gerar desenvolvimento
+Incentive os participantes a fornecerem feedforward: outra parte fundamental do processo e que frequentemente é deixada de lado quando há a presença de notas e conceitos é o feedforward, ou seja, os insumos que o avaliador dá ao avaliado de como ele pode melhorar, ou seja, agir de maneira diferente, no futuro
+
+
+A diferença entre feedbacks e avaliações de desempenho
+ 
+Uma das perguntas que nos fazem semanalmente aqui na Qulture.Rocks é “qual a diferença entre feedbacks e avaliações de desempenho?”. A pergunta vem de uma série de confusões:  feedback é a mesma coisa que avaliação de desempenho? Ou feedback é uma parte da avaliação de desempenho? Quando devo usar uma avaliação e quando devo usar um feedback? Nesse artigo queremos clarear algumas dessas dúvidas.
+
+Vamos começar definindo os dois termos e entendendo as diferenças.
+
+Feedbacks
+Feedback na ciência e na natureza
+“Feedback” é um termo científico que se refere a qualquer sinal que é absorvido por um sistema e que faz este sistema corrigir seu curso. A temperatura do seu quarto, por exemplo, é um feedback que o termostato do seu aparelho de ar-condicionado usa para calibrar sua potência. Se você configurou o aparelho para manter seu quarto em 25 graus celsius, o termômetro fará leituras periódicas da temperatura do quarto. Se ela estiver acima de 25 graus, ele continua ligado. Se estiver em 25 graus ou abaixo (ou seja, menor ou igual a 25 graus), ele vai desligar temporariamente, até que seja realizada a próxima medição.
+
+Nosso corpo também recebe feedbacks o tempo todo do ambiente. Esses feedbacks chegam pelos nossos sentidos: olfato, audição, visão, tato e paladar. E são captados o tempo todo pelo corpo.
+
+Feedbacks no trabalho
+Insights: inputs que recebemos de outras pessoas
+No trabalho, normalmente chamamos de feedback qualquer input que recebemos de outras pessoas sobre nosso desempenho e nosso comportamento. Quando nosso gestor pede para que nossos relatórios sejam mais detalhados, estamos recebendo um feedback. Quando nosso colega agradece enormemente nossa ajuda com um “incêndio” no relacionamento com um cliente, estamos recebendo um feedback. Quando nosso liderado pede para que deixemos as prioridades mais claras, estamos recebendo um feedback.
+
+Mas feedbacks não se limitam MESMO a esses inputs.
+
+Outros tipos de feedbacks no trabalho
+Além deste tipo de feedback recebido dos outros, que aqui na Qulture.Rocks chamamos de “insights” ou “elogios”, há outras formas de se receber feedbacks no trabalho.
+
+Nosso resultado em relação às metas estabelecidas é um tipo de feedback. Se vemos que estamos batendo apenas 50% da nossa meta, a alguns dias do fim do trimestre, entendemos esse feedback como um sinal de que devemos acelerar o passo ou mudar alguma coisa na nossa estratégia, pois o que estamos fazendo não está nos colocando nos trilhos.
+
+Quando recebemos uma avaliação de desempenho, também estamos recebendo um feedback. Se recebemos uma nota “atende às expectativas”, sabemos que estamos fazendo aquilo que é esperado pela empresa de alguém no nosso cargo ou nível de senioridade.
+
+Há ainda formas mais sutis de feedbacks que recebemos do ambiente. Se estamos em uma reunião e começamos a conversar com nosso colega do lado, cochichando, e recebemos apenas um olhar irritado do nosso chefe, isso serve de feedback para recalibrarmos nosso comportamento, parando de cochichar e focando na conversa.
+
+Enfim, como você pode perceber, feedbacks chegam por diferentes lados e fontes, e são parte inerente e constante do nosso trabalho.
+
+Avaliações de desempenho
+Avaliação de desempenho é um ritual ou processo geralmente realizado com uma frequência fixa (como semestral ou anual) em que os colaboradores de uma empresa são avaliados de maneira sistemática por avaliadores pré-determinados (geralmente o gestor, às vezes pode haver uma auto-avaliação, e em ainda outros casos pode haver avaliações de pares e liderados – o kit completo é geralmente chamado de “avaliação 360-graus”).
+
+Como vimos acima, avaliações de desempenho são tipos de feedback (no sentido científico) que o ambiente (seus colegas ou sistemas) manda para um colaborador.
+
+Avaliações de desempenho podem conter insights (inputs recebidos de outras pessoas): as opiniões dos nossos gestores sobre nosso desempenho e suas sugestões de como devemos nos comportar no futuro são um grande exemplo, assim como eventuais inputs dos nossos colegas. Avaliações também contam com notas ou conceitos que rotulam e classificam nosso desempenho em relação a algum tipo de escala. Algumas das escalas mais comuns são a escala de expectativa, que avalia se o colaborador está desempenhando de acordo com o que é esperado, a escala relativa, que avalia como o colaborador está desempenhando em relação aos seus colegas.
+
+Ótimo. Então já sabemos um pouco mais sobre o que são feedbacks (vamos começar a falar insights?) e o que são avaliações de desempenho. Agora vamos falar sobre como usar um, e como usar o outro.
+
+Quando dar feedback, quando esperar a avaliação de desempenho
+A melhor forma de pensar em insights e avaliações de desempenho é usar o esporte como metáfora. Técnicos esportivos são mestres nas duas artes.
+
+Quando um jogador de futebol bate uma falta errado, ele recebe alguns tipos de feedback: a torcida vaia, a bola vai longe do gol, os colegas fazem caretas, o goleiro comemora. Mas geralmente é o técnico que manda o feedback mais valioso: um insight do que foi errado e o que o jogador deve fazer para acertar da próxima vez: “você esperou demais para chutar. Da próxima vez, chute antes”, grita o técnico da beira do campo.
+
+Este é um exemplo clássico de insight, dado pelo técnico, que faz o papel de professor, e que ensina o jogador a melhorar o seu desempenho constantemente.
+
+  Técnico Zidane em campo- Fonte: Skysports    Técnico Zidane em campo- Fonte: Skysports
+Um bom insight deve ser dado imediatamente após o comportamento observado, pois o receptor – quem realizou o comportamento e precisa receber o insight – tem a situação fresca na sua cabeça e pode incorporar o insight nos seus próximos comportamentos. Por isso que técnicos de esportes de alto desempenho estão na beira do campo, quadra ou piscina, principalmente nos treinos, gritando a plenos pulmões com seus atletas.
+
+Avaliações de desempenho, por outro lado, são discussões mais abstratas, que se referem a um conjunto de comportamentos, que possivelmente se transformou em um padrão de comportamento. Neste caso, a conversa é mais estruturada, e leva em conta um período mais longo de observação. Segundo Scotty Bowman, técnico recordista em títulos de Hockey no gelo na conferência NHL, “temos uma temporada de oitenta jogos. A cada dez jogos, e me sento com cada um dos jogadores individualmente. Trago suas estatísticas de jogo e inputs dos outros – dos meus assistentes técnicos e dos colegas – e o jogador traz uma reflexão, uma auto-avaliação. Então temos uma conversa sobre o que manter e o que mudar para os próximos dez jogos.”
+
+Insights não substituem avaliações de desempenho, e avaliações de desempenho não substituem insights. Cada um tem seu propósito e, por isso, é muito importante entender bem os dois conceitos e saber quando usar cada um deles.
